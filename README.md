@@ -1,4 +1,4 @@
-# jwt-symmetric-encryption-springboot
+# jwt-token-service
 
 What is JWT ?
 
